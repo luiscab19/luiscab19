@@ -4,21 +4,19 @@
   </picture>
 </p>
 
-<h1 align="center">¡Hola 👋, soy Luis Cabrera!</h1>
+<h1 align="center">¡Hola 👋, soy Luis ALvarez!</h1>
 <h3 align="center">Estudiante de Ingeniería en Computación | URU 🎓 | 8vo Trimestre</h3>
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=luiscab19&label=Profile%20views&color=0e75b6&style=flat" alt="luiscab19" /> 
+  <img src="https://github.com/luiscab19" /> 
 </p>
 
 <table align="center">
   <tr border="none">
     <td width="50%" align="left">
   
-- 🌱 Actualmente aprendiendo **Desarrollo Web, Python o Java (ajusta según tus intereses)**  
+- 🌱 Actualmente aprendiendo **Desarrollo Web, Python y Java**  
 - 🏫 Estudiante en **Universidad Rafael Urdaneta (URU)**  
 - 💬 Pregúntame sobre **programación, bases de datos o proyectos universitarios**  
-- 📫 Contacto: **tu-email@ejemplo.com**  
-- ⚡ Dato curioso: **Me apasiona la inteligencia artificial/robótica (o ajusta según tus gustos)**  
 
     </td>
     <td width="50%" align="center">
@@ -49,13 +47,8 @@
 
 ### 🌐 **Conécta conmigo:**
 <p align="center">
-  <a href="https://linkedin.com/in/tu-linkedin" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
   </a>
-  <a href="https://twitter.com/tu-twitter" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="50" />
-  </a>
-  <a href="https://instagram.com/tu-instagram" target="_blank">
+  <a href="https://www.instagram.com/luis.alvarezb?igsh=aXdwc3U2M3I0bzJw" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="50" />
   </a>
 </p>
@@ -65,18 +58,8 @@
 ### 🛠 **Lenguajes y Herramientas:**  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,git,github,mysql,react,nodejs,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,cs,git,github,mysql,vscode,visualstudio" />
   </a>
 </p>
-
-*(Ajusta los íconos según tus tecnologías dominantes. Puedes encontrar más en [skillicons.dev](https://skillicons.dev))*  
-
----
-
-### ⚡ **Proyectos Destacados:**  
-- 🔗 [Repositorio X](https://github.com/luiscab19/tu-proyecto): Descripción breve.  
-- 🔗 [Repositorio Y](https://github.com/luiscab19/tu-proyecto): Descripción breve.  
-
----
 
 ✨ **¡Gracias por visitar mi perfil!**  

@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">¡Hola 👋, soy Luis ALvarez!</h1>
-<h3 align="center">Estudiante de Ingeniería en Computación | URU 🎓 | 8vo Trimestre</h3>
+<h3 align="center">Estudiante de Ingeniería en Computación | URU 🎓 | 9no Trimestre</h3>
 <p align="center"> 
   <img src="https://github.com/luiscab19" /> 
 </p>

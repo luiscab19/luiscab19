@@ -6,9 +6,6 @@
 
 <h1 align="center">¡Hola 👋, soy Luis ALvarez!</h1>
 <h3 align="center">Estudiante de Ingeniería en Computación | URU 🎓 | 9no Trimestre</h3>
-<p align="center"> 
-  <img src="https://github.com/luiscab19" /> 
-</p>
 
 <table align="center">
   <tr border="none">
@@ -20,7 +17,7 @@
 
     </td>
     <td width="50%" align="center">
-      <img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+      <img align="center" alt="Coding" width="400" src="https://pixabay.com/es/photos/desarrollador-de-software-6521720/">
     </td>
   </tr>
 </table>

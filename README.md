@@ -42,15 +42,6 @@
 
 ---
 
-### 🌐 **Conécta conmigo:**
-<p align="center">
-  </a>
-  <a href="https://www.instagram.com/luis.alvarezb?igsh=aXdwc3U2M3I0bzJw" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="50" />
-  </a>
-</p>
-
----
 
 ### 🛠 **Lenguajes y Herramientas:**  
 <p align="center">

@@ -17,7 +17,7 @@
 
     </td>
     <td width="50%" align="center">
-      <img align="center" alt="Coding" width="400" src="https://pixabay.com/es/photos/desarrollador-de-software-6521720/">
+      <img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif">
     </td>
   </tr>
 </table>
